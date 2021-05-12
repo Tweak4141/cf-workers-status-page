@@ -8,7 +8,7 @@ settings:
   allmonitorsOperational: 'All Systems Operational'
   notAllmonitorsOperational: 'Degraded Performance/Partial Outage'
   monitorLabelOperational: 'Operational'
-  monitorLabelNotOperational: 'Outage'
+  monitorLabelNotOperational: 'Down'
   monitorLabelNoData: 'No data'
   dayInHistogramNoData: 'No data'
   dayInHistogramOperational: 'No incidents recorded'
